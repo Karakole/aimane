@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(216, 26, 206);
+}
+section {
+    display: flex;
+}
+article{
+    margin: 2%;
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+}
+h1 {
+    color: rgb(145, 189, 23);
+}
+img{
+    width: 200px;
+    
+}
+p{
+    color: white;
+}
